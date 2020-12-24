@@ -25,6 +25,7 @@
   padding-bottom:0vw;
   padding-right:1vw;
   padding-left:1vw;
+  float:left;
 }
 body {
   background-color:white;
