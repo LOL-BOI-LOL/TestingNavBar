@@ -1,11 +1,33 @@
-#navlink {
+#navbar {
   background-color:black;
+  width:100%;
+  margin-top:0vw;
+  margin-bottom:0vw;
+  margin-left:0vw;
+  margin-right:0vw;
+  padding-top:0vw;
+  padding-bottom:0vw;
+  padding-right:0vw;
+  padding-left:0vw;
+}
+#navlink {
   color:white;
   text-align:center;
   display: inline-block;
   font-size:1.4vw;
   text-decoration:none;
   font-family: "Times New Roman", Times, serif;
+  margin-top:0vw;
+  margin-bottom:0vw;
+  margin-left:0vw;
+  margin-right:0vw;
+  padding-top:0vw;
+  padding-bottom:0vw;
+  padding-right:1vw;
+  padding-left:1vw;
+}
+body {
+  background-color:white;
   margin-top:0vw;
   margin-bottom:0vw;
   margin-left:0vw;
